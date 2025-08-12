@@ -1,16 +1,53 @@
-# myvillage
+# 🌾 My Village
 
-A new Flutter project.
+A Flutter-based mobile application showcasing village events, news, and community updates.  
+The app provides a simple and attractive UI for first-time visitors and supports both **user** and **admin** access.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+### 👥 User
+- User login & registration
+- View upcoming & finished events
+- Register for events
+- Attractive UI for first-time visitors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛠 Admin
+- Admin login
+- Add, edit, and delete events
+- Manage registered members
+- View event winners
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼 Screenshots
+*(Add screenshots here once available)*
+
+---
+
+## 📦 Tech Stack
+- **Frontend:** Flutter
+- **Backend:** Laravel (API-based)
+- **Database:** MySQL
+- **State Management:** Provider / setState
+- **Storage:** SharedPreferences for token handling
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have installed:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio) or VS Code
+- Laravel backend running locally or on a server
+
+---
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Nikhilbhanderi91/myvillage.git
+   cd myvillage
