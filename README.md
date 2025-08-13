@@ -19,10 +19,6 @@ The app provides a simple and attractive UI for first-time visitors and supports
 - Manage registered members
 - View event winners
 
----
-
-## 🖼 Screenshots
-*(Add screenshots here once available)*
 
 ---
 
