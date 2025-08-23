@@ -1,0 +1,19 @@
+{
+  "welcome": "સ્વાગત છે",
+  "login": "લોગિન",
+  "username": "વપરાશકર્તા નામ",
+  "password": "પાસવર્ડ",
+  "forgot_password": "પાસવર્ડ ભૂલી ગયા છો?",
+  "dont_have_account": "ખાતું નથી?",
+  "sign_up": "સાઇન અપ",
+  "village_news": "ગામના સમાચાર",
+  "market_prices": "બજાર ભાવ",
+  "weather": "હવામાન",
+  "events": "ઇવેન્ટ્સ",
+  "directory": "ડિરેક્ટરી",
+  "help_desk": "હેલ્પ ડેસ્ક",
+  "profile": "પ્રોફાઇલ",
+  "settings": "સેટિંગ્સ",
+  "help_support": "મદદ અને સપોર્ટ",
+  "logout": "લોગઆઉટ"
+}

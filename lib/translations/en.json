@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "forgot_password": "Forgot Password?",
+  "dont_have_account": "Don't have an account?",
+  "sign_up": "Sign Up",
+  "village_news": "Village News",
+  "market_prices": "Market Prices",
+  "weather": "Weather",
+  "events": "Events",
+  "directory": "Directory",
+  "help_desk": "Help Desk",
+  "profile": "Profile",
+  "settings": "Settings",
+  "help_support": "Help & Support",
+  "logout": "Logout"
+}
